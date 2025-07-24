@@ -1,0 +1,13 @@
+langchain
+langchain_huggingface
+sentence-transformers
+flask
+pypdf
+python-dotenv
+pinecone[grpc]
+langchain-pinecone
+langchain_community
+langchain_google_genai
+langchain_gemini
+langchain_experimental
+-e .
